@@ -1,6 +1,8 @@
 import torch
 import torchvision.transforms as transforms
 from PIL import Image
+import torchvision.models as models
+import torch.nn as nn
 
 # Define the transformation to apply to the images
 # Load the pre-trained ResNet-50 model
