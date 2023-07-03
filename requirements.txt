@@ -2,5 +2,4 @@ torch
 torchvision
 Pillow
 Flask
-tensorflow
 gunicorn
